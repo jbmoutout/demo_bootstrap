@@ -1,0 +1,29 @@
+/* code your banner design here */
+#banner {
+background-image: url(../images/background.png);
+color: white;
+padding: 200px 0;
+background-size: cover;
+height: 650px;
+}
+#banner h1 {
+font-size: 50px;
+color: white;
+}
+#banner p {
+font-size: 25px;
+font-weight: 100;
+}
+
+.blue-bg {
+background-color: #469AE0;
+color: #FFF;
+}
+.padded {
+padding-top: 8em;
+padding-bottom: 8em;
+}
+.card {
+padding: 10px;
+font-weight: 300;
+}
